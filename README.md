@@ -21,7 +21,7 @@ outbluffs, and out-allocates their opponent across dozens of lightning-fast roun
 
 ---
 
-## 🎮 The Concept
+## The Concept
 
 Each round follows a tight loop — **ALLOCATE → REVEAL → RESOLVE → REGEN** — resolving in
 under 5 seconds. Players blind-allocate a pool of energy across:
@@ -38,19 +38,19 @@ momentum that carries between rounds**, creating natural back-and-forth rallies.
 
 ---
 
-## ✨ Features
+## Features
 
-- ⚡ **Simultaneous blind input** — no turn-order advantage; pure read-and-react mind games.
-- 🧠 **Strategic triangle** — direct force ⟷ shields ⟷ traps form an extended rock-paper-scissors.
-- 🌀 **Custom 2D physics** — vector forces, damping, velocity caps, wall bounces, momentum carry-over.
-- 🎨 **"Neon Blueprint" aesthetic** — glowing geometry on pure black, particles, screen shake, and bloom.
-- 📱 **Touch-native local multiplayer** — split-screen multi-touch on a single device.
-- ⌨️ **Desktop keyboard controls** for quick testing.
-- 📦 **Android build** via Capacitor (a prebuilt debug APK is included).
+-  **Simultaneous blind input** — no turn-order advantage; pure read-and-react mind games.
+-  **Strategic triangle** — direct force ⟷ shields ⟷ traps form an extended rock-paper-scissors.
+-  **Custom 2D physics** — vector forces, damping, velocity caps, wall bounces, momentum carry-over.
+-  **"Neon Blueprint" aesthetic** — glowing geometry on pure black, particles, screen shake, and bloom.
+-  **Touch-native local multiplayer** — split-screen multi-touch on a single device.
+-  **Desktop keyboard controls** for quick testing.
+-  **Android build** via Capacitor (a prebuilt debug APK is included).
 
 ---
 
-## 🕹️ Controls
+##  Controls
 
 **Touch (mobile):** Each player taps the buttons on their own half of the screen —
 `A` `B` `C` to add energy to a vector, `SHD` to cycle a shield target, `TRP` to arm a trap,
@@ -69,7 +69,7 @@ momentum that carries between rounds**, creating natural back-and-forth rallies.
 
 ---
 
-## 🚀 Run It
+##  Run It
 
 ### Play in a browser
 ```bash
@@ -92,7 +92,7 @@ npm run android   # opens the project in Android Studio
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Layer       | Technology                                         |
 |-------------|----------------------------------------------------|
@@ -104,7 +104,7 @@ npm run android   # opens the project in Android Studio
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 .
@@ -119,7 +119,7 @@ npm run android   # opens the project in Android Studio
 
 ---
 
-## 🗺️ Roadmap
+## Roadmap
 
 The included **[Game Design Document](./GDD.md)** details the full vision beyond this prototype:
 online network PvP (lockstep, server-authoritative), AI opponents, ranked progression,
@@ -127,7 +127,7 @@ cosmetics, accessibility modes, and a tunable balance system.
 
 ---
 
-## 📄 License
+## License
 
 Released under the [MIT License](./LICENSE).
 
