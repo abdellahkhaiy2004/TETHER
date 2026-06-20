@@ -1,0 +1,12 @@
+{
+    "appId": "com.tether.game",
+    "appName": "TETHER",
+    "webDir": "www",
+    "server": {
+        "androidScheme": "https"
+    },
+    "android": {
+        "backgroundColor": "#000000",
+        "allowMixedContent": false
+    }
+}

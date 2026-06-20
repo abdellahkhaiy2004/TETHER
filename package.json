@@ -1,0 +1,29 @@
+{
+  "name": "tether-game",
+  "version": "1.0.0",
+  "description": "TETHER — a 2-player kinetic resource-bidding PvP arcade game. Tug-of-war meets poker at 200 BPM. Built with vanilla JS + HTML5 Canvas, packaged for Android with Capacitor.",
+  "main": "game.js",
+  "scripts": {
+    "start": "npx serve .",
+    "sync": "npx cap copy && npx cap sync android",
+    "android": "npx cap open android"
+  },
+  "keywords": [
+    "game",
+    "html5-canvas",
+    "javascript",
+    "pvp",
+    "arcade",
+    "capacitor",
+    "android",
+    "game-dev"
+  ],
+  "author": "Abdellah Khaiy",
+  "license": "MIT",
+  "type": "commonjs",
+  "dependencies": {
+    "@capacitor/android": "^8.1.0",
+    "@capacitor/cli": "^8.1.0",
+    "@capacitor/core": "^8.1.0"
+  }
+}

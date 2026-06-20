@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">TETHER</string>
+    <string name="title_activity_main">TETHER</string>
+    <string name="package_name">com.tether.game</string>
+    <string name="custom_url_scheme">com.tether.game</string>
+</resources>
